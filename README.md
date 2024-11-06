@@ -52,6 +52,10 @@ npm run dev
 Now you can access the demo website here.
 
 ## Screenshots
+![bitlinks hom](https://github.com/user-attachments/assets/7b2f2a1f-3295-441f-a241-c38ccc76aa48)
+![bitlinks](https://github.com/user-attachments/assets/397dd607-28a7-4a8e-80af-9f3c1eecb0c1)
+![image](https://github.com/user-attachments/assets/ff4fc722-f11e-4279-9883-545081355871)
+
 
 ## Materials Used
 
