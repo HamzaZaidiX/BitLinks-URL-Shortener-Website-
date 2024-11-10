@@ -6,7 +6,9 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "install-force": "npm install --force",
+    "install-legacy": "npm install --legacy-peer-deps"
   },
   "dependencies": {
     "mongodb": "^6.10.0",
